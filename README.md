@@ -8,5 +8,21 @@ Our code will be released soon.
 ## Network
 <p><img src="./Image/Network.png" width="80%"/> </p>
 <p align="center">
-<em>Figure 1: Network pipeline.</em>
 </p>
+## Module
+<p><img src="./Image/Module.png" width="80%"/> </p>
+<p align="center">
+</p>
+## Quantitative comparison
+<p><img src="./Image/Quantitative_comparison.png" width="80%"/> </p>
+<p align="center">
+</p>
+## Visual comparison
+<p><img src="./Image/visual_4channel.png" width="80%"/> </p>
+<p align="center">
+</p>
+
+<p><img src="./Image/visual_deda.png" width="80%"/> </p>
+<p align="center">
+</p>
+
