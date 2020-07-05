@@ -7,4 +7,4 @@ Our code will be released soon.
 * (CVPR 2020) Multi-scale Interactive Network for Salient Object Detection: https://github.com/lartpang/MINet
 ## Network
 ![](./Image/Network.png)  
-<center>Network pipeline</center>
+*Network pipeline*
