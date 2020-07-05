@@ -6,5 +6,7 @@ Our code will be released soon.
 * (ECCV 2020) Hierarchical Dynamic Filtering Network for RGB-D Salient Object Detection: https://github.com/lartpang/HDFNet
 * (CVPR 2020) Multi-scale Interactive Network for Salient Object Detection: https://github.com/lartpang/MINet
 ## Network
-![](./Image/Network.png)  
-*Network pipeline*
+<p><img src="./Image/Network.png" width="80%"/> </p>
+<p align="center">
+<em>Figure 1: Network pipeline.</em>
+</p>
