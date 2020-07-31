@@ -19,6 +19,14 @@ Our code will be released soon.
 ## Visual comparison
 ![](./Image/visual_4channel.png)
 
-![](./Image/visual_deda.png)
+![](./Image/visual_deda.png)  
 
-
+## BibTex
+```
+@inproceedings{DANet,
+  title={A Single Stream Network for Robust and Real-time RGB-D Salient Object Detection},
+  author={Zhao, Xiaoqi and Zhang, Lihe and Pang, Youwei and Lu, Huchuan and Zhang, Lei},
+  booktitle=ECCV,
+  year={2020}
+}
+```
