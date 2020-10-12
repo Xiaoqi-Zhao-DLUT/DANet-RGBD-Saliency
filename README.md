@@ -1,7 +1,7 @@
 # DANet-RGBD-Saliency
 (ECCV 2020) A Single Stream Network for Robust and Real-time RGB-D Salient Object Detection  
 https://arxiv.org/pdf/2007.06811.pdf  
-Our code will be released soon.  
+As we are currently using our algorithm in a related competition, we will release the code around November. (Both DANet and GateNet) 
 ## Saliency map
 [BaiduYunPan(3m9i)](https://pan.baidu.com/s/1_sOsCOgZwFNtPdXypFJHog)  
 ## Related Works
