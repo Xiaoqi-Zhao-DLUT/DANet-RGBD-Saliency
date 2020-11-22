@@ -1,4 +1,18 @@
-![](./Image/DANet_logo.png)
+<p align="center">
+
+  <img src="./Image/DANet_logo.png" alt="Logo" width="210" height="auto">
+
+
+  <h3 align="center">A Single Stream Network for Robust and Real-time RGB-D Salient Object Detection</h3>
+
+  <p align="center">
+    Xiaoqi Zhao, Lihe Zhang, Youwei Pang, Huchuan Lu, Lei Zhang
+    <br />
+    <a href="https://arxiv.org/pdf/2007.06811.pdf"><strong>⭐ arXiv »</strong></a>
+    <br />
+  </p>
+</p>
+
 # DANet-RGBD-Saliency
 (ECCV 2020) A Single Stream Network for Robust and Real-time RGB-D Salient Object Detection  
 https://arxiv.org/pdf/2007.06811.pdf  
