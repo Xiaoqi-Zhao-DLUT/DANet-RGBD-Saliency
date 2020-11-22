@@ -12,10 +12,7 @@
     <br />
   </p>
 </p>
-
-# DANet-RGBD-Saliency
-(ECCV 2020) A Single Stream Network for Robust and Real-time RGB-D Salient Object Detection  
-https://arxiv.org/pdf/2007.06811.pdf  
+The official repo of the ECCV 2020 paper A Single Stream Network for Robust and Real-time RGB-D Salient Object Detection.  
 ## Saliency map
 [BaiduYunPan(3m9i)](https://pan.baidu.com/s/1_sOsCOgZwFNtPdXypFJHog)  
 ## Related Works
