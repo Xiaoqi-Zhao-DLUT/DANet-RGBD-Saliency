@@ -15,7 +15,7 @@
 
 The official repo of the ECCV 2020 paper A Single Stream Network for Robust and Real-time RGB-D Salient Object Detection.  
 ## Saliency map
-[BaiduYunPan(3m9i)](https://pan.baidu.com/s/1_sOsCOgZwFNtPdXypFJHog)  
+[Google Drive](https://drive.google.com/file/d/1CHCLvM1wUl2O4AVMel5WHf8icexojwHY/view?usp=sharing ) / [BaiduYunPan(3m9i)](https://pan.baidu.com/s/1_sOsCOgZwFNtPdXypFJHog)  
 ## Related Works
 * (ECCV 2020 Oral) Suppress and Balance: A Simple Gated Network for Salient Object Detection: https://github.com/Xiaoqi-Zhao-DLUT/GateNet-RGB-Saliency
 * (ECCV 2020) Hierarchical Dynamic Filtering Network for RGB-D Salient Object Detection: https://github.com/lartpang/HDFNet
